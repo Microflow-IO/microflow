@@ -1,14 +1,14 @@
 ---  
-title: 指南  
+title: Guide  
 nav_order: 2  
 ---  
 
-# 指南  
+# Guide  
 
-这里是指南页面内容，您可以编辑这个页面为用户提供文档指南。  
+Guide for Users  
 
-## 部分一  
-您的内容……  
+## Part 1  
+Your content……  
 
-## 部分二  
-您的内容……
+## Part 2  
+Your content……

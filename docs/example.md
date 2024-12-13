@@ -1,8 +1,8 @@
 ---  
-title: 示例  
+title: Samples  
 nav_order: 3  
 ---  
 
 # 示例页面  
 
-这是一个示例页面，您可以在此处展示应用示例或其他内容。
+Samples page

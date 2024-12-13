@@ -3,6 +3,6 @@ title: Samples
 nav_order: 3  
 ---  
 
-# 示例页面  
+# Sample Page  
 
-Samples page
+Sample page

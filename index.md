@@ -1,4 +1,4 @@
-![Logo](https://github.com/Microflow-IO/microflow-nano/blob/main/docs/github_microflow_B.png)
+
 ---  
 title: Home  
 layout: home  
